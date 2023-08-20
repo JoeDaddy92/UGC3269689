@@ -1,0 +1,103 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "5AD3C1756670AFA7C5B3D780BF5F891E78842FCF",
+			"Assets": [
+				"/UGC3269689/UGC2655726196/external/weapons_pack/Materials/M_LootSpawner"
+			]
+		},
+		{
+			"ShaderMapHash": "C70C0A342DDF92433CA9724878B6198FAC0FDAE1",
+			"Assets": [
+				"/UGC3269689/UGC2655726196/external/custom_map/ModExampleMap"
+			]
+		},
+		{
+			"ShaderMapHash": "8CB9070177635AAB5933AD2CC9E056B9B5CEA3CA",
+			"Assets": [
+				"/UGC3269689/UGC2655726196/FloorTest/Color",
+				"/UGC3269689/UGC2655726196/FloorTest/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "05A8689E44CC97FB72330678392604B7327A5170",
+			"Assets": [
+				"/UGC3269689/UGC2655726196/mats/solid"
+			]
+		},
+		{
+			"ShaderMapHash": "ED148A19C0FC1D6C9D0DB52E23E566FA1B18C26C",
+			"Assets": [
+				"/UGC3269689/UGC2655726196/external/custom_map/Materials/M_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "75F854EBA895BB462519759D9BAD6E46BC3D094F",
+			"Assets": [
+				"/UGC3269689/UGC2655726196/external/custom_map/Materials/M_EditorMesh"
+			]
+		},
+		{
+			"ShaderMapHash": "B8C4B5D5F30B060F0BCC5C880E8E0EDDC239061C",
+			"Assets": [
+				"/UGC3269689/UGC2655726196/mats/canvas/canvas_brush"
+			]
+		},
+		{
+			"ShaderMapHash": "CAA67D9B4DF51935C8E0B8398FF6F8B04D0371CC",
+			"Assets": [
+				"/UGC3269689/UGC2655726196/FloorTest/Yellow"
+			]
+		},
+		{
+			"ShaderMapHash": "FF971AFB0A79D1FC37C427C4ED54DFB617A4AF1D",
+			"Assets": [
+				"/UGC3269689/UGC2655726196/FloorTest/Teal"
+			]
+		},
+		{
+			"ShaderMapHash": "F9FAF20BCFDD28B5884850C7E3259AD0282B71D1",
+			"Assets": [
+				"/UGC3269689/UGC2655726196/FloorTest/Red"
+			]
+		},
+		{
+			"ShaderMapHash": "4B98CCDF004FB6E3EBD32B7E301F1A645E365DC4",
+			"Assets": [
+				"/UGC3269689/UGC2655726196/mats/wireframe"
+			]
+		},
+		{
+			"ShaderMapHash": "B18699B7E776E10A9A077017A469D3A90024ED9C",
+			"Assets": [
+				"/UGC3269689/UGC2655726196/mats/transparent"
+			]
+		},
+		{
+			"ShaderMapHash": "754BA820E6724E0B732F49C65AFE69D77821A8BC",
+			"Assets": [
+				"/UGC3269689/UGC2655726196/mats/particle_trail"
+			]
+		},
+		{
+			"ShaderMapHash": "896E43D1291A9FEF7043038390A3E60A95C7BBAB",
+			"Assets": [
+				"/UGC3269689/UGC2655726196/mats/prototype/basic"
+			]
+		},
+		{
+			"ShaderMapHash": "3246538C6DC9B9767CC5381401CBBE96808FC6A8",
+			"Assets": [
+				"/UGC3269689/UGC2655726196/mats/canvas/canvas_base"
+			]
+		},
+		{
+			"ShaderMapHash": "0BE36AA4411C41B2EC0169E5258ABEFD2D65EFD8",
+			"Assets": [
+				"/UGC3269689/UGC2655726196/mats/box_tex/box_tex_depth_test",
+				"/UGC3269689/UGC2655726196/mats/box_tex/box_tex"
+			]
+		}
+	]
+}

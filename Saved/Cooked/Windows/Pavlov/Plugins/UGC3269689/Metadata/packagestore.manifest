@@ -1,0 +1,1774 @@
+{
+	"Files": [
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Wood_Thin.uasset",
+			"ChunkId": "75f75a47261eb80800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Water_Thin.uasset",
+			"ChunkId": "4e20c7ef87ff698700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Metal_Thin.uasset",
+			"ChunkId": "ba88f1901c9e607100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Glass_Thin.uasset",
+			"ChunkId": "d448971b47ef68b500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Flesh_Thin.uasset",
+			"ChunkId": "83fb155eba21941800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Fabric_Thin.uasset",
+			"ChunkId": "ae98e602917ce20e00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Dirt_Thin.uasset",
+			"ChunkId": "21a05f5b7e1a465300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Concrete_Thin.uasset",
+			"ChunkId": "260bc10ed8db716b00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Carpet_Thin.uasset",
+			"ChunkId": "3eb3a517f9a7158d00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/bot_ai/findRandomLocation.uasset",
+			"ChunkId": "c35a1fa429b6d7f000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/enums/tool_modifier_actions.uasset",
+			"ChunkId": "4512dfe36e1270ab00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/enums/target_spawn_mode.uasset",
+			"ChunkId": "dad5bca8f0000c6600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/enums/settings_actions.uasset",
+			"ChunkId": "7e3838442f669a6300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Snow.uasset",
+			"ChunkId": "350b7130611708dd00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/enums/ruler_modes.uasset",
+			"ChunkId": "8c15d275309a2bd700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/bot_ai/bot_bb.uasset",
+			"ChunkId": "5561ef4fa14a653100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/enums/noclip_mode.uasset",
+			"ChunkId": "0aa137a6f2bb86a600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/enums/map_loaded_actions.uasset",
+			"ChunkId": "f0895d697c53af9700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/enums/maps_displayname.uasset",
+			"ChunkId": "d9ca07b49dcff32a00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/enums/maps.uasset",
+			"ChunkId": "f9c97bd592b300cb00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Mud.uasset",
+			"ChunkId": "345bfd250ae6c4cb00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/PM_ForceNone.uasset",
+			"ChunkId": "b2304dd654f2076a00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/enums/LoadableMaps.uasset",
+			"ChunkId": "66ead1e004009aa300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Wood.uasset",
+			"ChunkId": "907fb6804891c2fa00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Water.uasset",
+			"ChunkId": "5614ca6dacb8e49b00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Metal.uasset",
+			"ChunkId": "49a5809b2995c08000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Glass.uasset",
+			"ChunkId": "6e5974988807a29000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Flesh.uasset",
+			"ChunkId": "69ab01829a8c863700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Fabric.uasset",
+			"ChunkId": "22313d9e204a2fa800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Blueprints/E_LootSpawnerItemIDs.uasset",
+			"ChunkId": "bd62fafe44b654bd00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Materials/M_LootSpawner.uasset",
+			"ChunkId": "c471dc1386a0d08900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/ModExampleMap.umap",
+			"ChunkId": "f52df9f7719a86b100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/ModExampleMap.ubulk",
+			"ChunkId": "f52df9f7719a86b100000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Dirt.uasset",
+			"ChunkId": "5d671c9c72fc594400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Concrete.uasset",
+			"ChunkId": "eaf1d6a03168f01d00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Carpet.uasset",
+			"ChunkId": "e1cbaf5c8b51a49900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/Blueprints/Pavlov_GameLogic_Example.uasset",
+			"ChunkId": "b5418c68827e9a4800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/Blueprints/BP_LootSpawnerProxy.uasset",
+			"ChunkId": "d138bfdeb77a2b1e00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/Blueprints/BP_InstanceTool.uasset",
+			"ChunkId": "4bfa735f7637719d00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/Blueprints/BP_Door.uasset",
+			"ChunkId": "52bf63f7ee5c7ff600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/Blueprints/BP_Destructible.uasset",
+			"ChunkId": "46164051ae67a90c00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/Blueprints/BP_CTFProxy.uasset",
+			"ChunkId": "58e175e0f68ba70600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/Meshes/SM_FlagCap.uasset",
+			"ChunkId": "4d306ce26bb1558500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/Meshes/SM_DoorExample_DM.uasset",
+			"ChunkId": "3a41a16fc5dc007000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/Meshes/SM_DoorExample.uasset",
+			"ChunkId": "2f64b9be9c96fc6700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/Meshes/SM_Bomb_Plant_01.uasset",
+			"ChunkId": "6eb234ca80e0083000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/Blueprints/BPI_MatchRounds.uasset",
+			"ChunkId": "0c0ab80564913c9100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/Blueprints/BPFL_PavlovTemplate.uasset",
+			"ChunkId": "464be581ce777d5f00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/randomstuff/ServerPortal.uasset",
+			"ChunkId": "1f3aeaa7a5be5e9000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/grenade_stuff/ball.uasset",
+			"ChunkId": "989ae7dd8386626400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/FloorTest/Color.uasset",
+			"ChunkId": "f9457f20862f384500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/solid.uasset",
+			"ChunkId": "714460f3dc3b183300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/Materials/M_Gray.uasset",
+			"ChunkId": "366955e28281f2ed00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/custom_map/Materials/M_EditorMesh.uasset",
+			"ChunkId": "45dc34d680b58a9300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/prototype/proto_dark.uasset",
+			"ChunkId": "f3d7b8439274acb500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/prototype/proto_dark.ubulk",
+			"ChunkId": "f3d7b8439274acb500000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/prototype/proto.uasset",
+			"ChunkId": "f487aa3d59764a9600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/prototype/proto.ubulk",
+			"ChunkId": "f487aa3d59764a9600000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/canvas/hit_marker.uasset",
+			"ChunkId": "045fa82c9c5091ac00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/canvas/canvas_brush.uasset",
+			"ChunkId": "5d755133bbf4322100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/box_tex/box.uasset",
+			"ChunkId": "694842054f57fe5e00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/FloorTest/Yellow.uasset",
+			"ChunkId": "70ae1db5ae36027700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/FloorTest/Teal.uasset",
+			"ChunkId": "f11c07bcf32a95ec00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/FloorTest/Red.uasset",
+			"ChunkId": "0961989dd1fea3f800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/wireframe.uasset",
+			"ChunkId": "49249e7714829f3000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/transparent.uasset",
+			"ChunkId": "66be4bdce18c03bb00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/FloorTest/CubeMaterial.uasset",
+			"ChunkId": "1c1c7d0e98fe919e00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/meshes/upright_cylinder.uasset",
+			"ChunkId": "f0aff4beec108b9300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/meshes/cylinder.uasset",
+			"ChunkId": "b6ee5dd2d7a2659000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/ServerVersion.uasset",
+			"ChunkId": "5d81cfaba3589be900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/Box_Brush3_StaticMesh.uasset",
+			"ChunkId": "e3ad08b7c6a0e02a00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/AssetTester.uasset",
+			"ChunkId": "84bcc67a382ffe7300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/BP_LootSpawnerProxy.uasset",
+			"ChunkId": "24b0ddbda224e14900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Materials/MI_Weapons.uasset",
+			"ChunkId": "ac36110d0132699400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Materials/MI_Items.uasset",
+			"ChunkId": "d197fedc2e76686e00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Materials/MI_Healing.uasset",
+			"ChunkId": "e5e795b26ebcc12800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Materials/MI_Grenades.uasset",
+			"ChunkId": "1b42f7f0d4711fa700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Materials/MI_Attachments.uasset",
+			"ChunkId": "64f66bc069a9790400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Materials/MI_Armor.uasset",
+			"ChunkId": "f9598cbf4a63341300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/bot_ai/bot_bt.uasset",
+			"ChunkId": "c60ff36c9307a34400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/enums/MapList.uasset",
+			"ChunkId": "3e2b2bb835ac609800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/solid_red.uasset",
+			"ChunkId": "9b2bfaeabc347def00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/solid_green.uasset",
+			"ChunkId": "80c9aba88a7dbc0c00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/penetrable_mat.uasset",
+			"ChunkId": "067d399b0a6260cf00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/grenade_stuff/particle_trail.uasset",
+			"ChunkId": "658b79cc15ed649f00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/definition.uasset",
+			"ChunkId": "ab850ae9dd29a13a00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Syringe.uasset",
+			"ChunkId": "815045bf8644efae00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/CombatShotgun.uasset",
+			"ChunkId": "31784534082eb63000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/UMP.uasset",
+			"ChunkId": "cba2046eb2c0051f00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Taser.uasset",
+			"ChunkId": "98ce0e3df80fa3df00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/particle_trail.uasset",
+			"ChunkId": "609ee75a9a15f8a900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/practice_map_BuiltData.uasset",
+			"ChunkId": "caf97bf8a2a0c0c900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/practice_map_BuiltData.ubulk",
+			"ChunkId": "caf97bf8a2a0c0c900000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/hero_shideout.uasset",
+			"ChunkId": "7b1167d2fc0a025e00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/11pans_dungeon.uasset",
+			"ChunkId": "ec8cfd0c538b7b2000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/prototype/basic.uasset",
+			"ChunkId": "8761254de57783ca00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/canvas/canvas_base.uasset",
+			"ChunkId": "c272fbf74f41a2d500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/box_tex/box_tex_depth_test.uasset",
+			"ChunkId": "aedfd0065bbf4a0a00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/box_tex/box_tex.uasset",
+			"ChunkId": "5b7c1290e13efa2b00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/FloorTest/1M_Cube.uasset",
+			"ChunkId": "2c07c9fc51a9f2ca00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Vanas.uasset",
+			"ChunkId": "a912f51dccacf6d900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Uzi.uasset",
+			"ChunkId": "26518501a6e81b2800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Sock.uasset",
+			"ChunkId": "853a1ae69b3eb1e300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Sawedoff.uasset",
+			"ChunkId": "a17e21d92d51456200000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Revolver.uasset",
+			"ChunkId": "18d99dfb18b9489000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/PumpShotgun.uasset",
+			"ChunkId": "432bccc0ee0502cc00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Pickaxe.uasset",
+			"ChunkId": "ac9e8496bced67fe00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/P90.uasset",
+			"ChunkId": "9db118725861851300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/MP5.uasset",
+			"ChunkId": "07efd14fab1f042b00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/M9.uasset",
+			"ChunkId": "eee805b6fe55651e00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/M4.uasset",
+			"ChunkId": "2ea668d34efc71d000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/LMG_A.uasset",
+			"ChunkId": "e01bb7c9f05c30a200000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Knife.uasset",
+			"ChunkId": "5a0ec00544a92bef00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Kar98.uasset",
+			"ChunkId": "f111d6e2c8fcdf6300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/DrumShotgun.uasset",
+			"ChunkId": "0d0e908b9846428c00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/DE.uasset",
+			"ChunkId": "f925245ed2c0545000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Crowbar.uasset",
+			"ChunkId": "f6421126062597c800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Cet9.uasset",
+			"ChunkId": "d80184eb550894c600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/C1911.uasset",
+			"ChunkId": "1bffb9c212e1efb200000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Bizon.uasset",
+			"ChunkId": "7c2ebcfe74f647f600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/AWP.uasset",
+			"ChunkId": "c2b0e189bd91f5ef00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/AutoSniper.uasset",
+			"ChunkId": "74ad499b6c5af71a00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/AUG.uasset",
+			"ChunkId": "867dcdaf0a1af00100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/AntiTank.uasset",
+			"ChunkId": "04fbb8341daf3d3900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/AK47.uasset",
+			"ChunkId": "7627d3e9a291cb1800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/AK12.uasset",
+			"ChunkId": "26179e54ce58912700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/57.uasset",
+			"ChunkId": "176cd70a8a69d86e00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Lockpick.uasset",
+			"ChunkId": "6c5cd60e1525424a00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Keycard.uasset",
+			"ChunkId": "262e0b1dbd1efa2600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Handcuffs.uasset",
+			"ChunkId": "17577808f2e9af3500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/BoltCutters.uasset",
+			"ChunkId": "10b23342410a666000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/BlowTorch.uasset",
+			"ChunkId": "95e1d8146ffd0cbd00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/PillBottle.uasset",
+			"ChunkId": "2b19992504e3037b00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/NadeSmoke_RU.uasset",
+			"ChunkId": "a00779f1e20e9d7000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/NadeSmoke.uasset",
+			"ChunkId": "f065f11646d5488400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/NadeFlash_RU.uasset",
+			"ChunkId": "fd2bf5cd1543d22a00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/NadeFlash.uasset",
+			"ChunkId": "d50235690bfbe77d00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/NadeExplosive_RU.uasset",
+			"ChunkId": "ce0b9695ac7c98fe00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/NadeExplosive.uasset",
+			"ChunkId": "b2119949ae99fb1600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/VerticalGrip.uasset",
+			"ChunkId": "3479070daa97e76600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/SuppressorRifle.uasset",
+			"ChunkId": "3399ccdaeb645c0700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/SuppressorPistol.uasset",
+			"ChunkId": "3035fd1454d20c2000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Scope.uasset",
+			"ChunkId": "adbb2f63915e9f3300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/RedDot.uasset",
+			"ChunkId": "ac7b5dd3b856a85500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Holo.uasset",
+			"ChunkId": "cd18607f7b1cccad00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/AngledGrip.uasset",
+			"ChunkId": "ccf46da7a4bd66bf00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/ACOG.uasset",
+			"ChunkId": "267f69af74247b8e00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Vest.uasset",
+			"ChunkId": "e438c3c303f3ef5400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Props/Helmet.uasset",
+			"ChunkId": "7d3d7c128be8050600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/spawn_modifier.uasset",
+			"ChunkId": "25fc8ffb580f031200000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/prototype/basic_dark.uasset",
+			"ChunkId": "62aa12e7e24dec0500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/spraystuff/canvas.uasset",
+			"ChunkId": "280af4bdc2a5d15100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/box_tex/box_tex_depth_test_pink.uasset",
+			"ChunkId": "0cbae34d58714b7b00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/box_tex/box_tex_red.uasset",
+			"ChunkId": "56e4dab88c9e345f00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/mats/box_tex/box_tex_blue.uasset",
+			"ChunkId": "de22664ae3be35b200000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/meshes/collision_point.uasset",
+			"ChunkId": "80d799733a92325a00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/FloorTest/DistanceMarkers.uasset",
+			"ChunkId": "e3e4f85c1278735900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/penmat_modifier.uasset",
+			"ChunkId": "7d0223c171c9551500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/grenade_modifier.uasset",
+			"ChunkId": "7c6cf81f12b27ebd00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/bullet_modifier.uasset",
+			"ChunkId": "56abdd19060d1a1300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/external/weapons_pack/Blueprints/BP_LootSpawnerModels.uasset",
+			"ChunkId": "c7565a4fffe0a47800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/entity_info.uasset",
+			"ChunkId": "813faffeb526f0fd00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/targets/Target_Enemy_Gun.uasset",
+			"ChunkId": "63b4ce239ff50f8e00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/targets/Target_Transparent_Gun.uasset",
+			"ChunkId": "09d23cffde7f28f500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/grenade_stuff/ball_launcher.uasset",
+			"ChunkId": "bfd1a1e178a8076d00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/player_modifier.uasset",
+			"ChunkId": "0ee611c38139a3b000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/console_print_delay.uasset",
+			"ChunkId": "618601c99aa8e0af00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/gamelogic.uasset",
+			"ChunkId": "014846ff1f268d4d00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/ActorMacros.uasset",
+			"ChunkId": "207c9903d35278be00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/bot_ai/bot_controller.uasset",
+			"ChunkId": "0f512e54fe0745e900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/spraystuff/save_button.uasset",
+			"ChunkId": "e392b63a8db1a40600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/spraystuff/spray_tester.uasset",
+			"ChunkId": "6b36dca98ee8043700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/spraystuff/bullet_property_tester.uasset",
+			"ChunkId": "e566bfbb8b9b4f9300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/tool_modifier.uasset",
+			"ChunkId": "ea5e7fad3f89c22f00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/tool_hand_right.uasset",
+			"ChunkId": "a8aacc9e9df2789500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/tool_hand_left.uasset",
+			"ChunkId": "854ae04fb3e01ce000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/blueprints/modifiers/modifier_volume.uasset",
+			"ChunkId": "5b76b2f08cef886d00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3269689/Content/UGC2655726196/practice_map.umap",
+			"ChunkId": "0208d4a16f92e58500000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Wood_Thin",
+			"ExportBundleChunkIds": [
+				"75f75a47261eb80800000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Water_Thin",
+			"ExportBundleChunkIds": [
+				"4e20c7ef87ff698700000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Metal_Thin",
+			"ExportBundleChunkIds": [
+				"ba88f1901c9e607100000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Glass_Thin",
+			"ExportBundleChunkIds": [
+				"d448971b47ef68b500000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Flesh_Thin",
+			"ExportBundleChunkIds": [
+				"83fb155eba21941800000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Fabric_Thin",
+			"ExportBundleChunkIds": [
+				"ae98e602917ce20e00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Dirt_Thin",
+			"ExportBundleChunkIds": [
+				"21a05f5b7e1a465300000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Concrete_Thin",
+			"ExportBundleChunkIds": [
+				"260bc10ed8db716b00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/Thin/PM_Default_Carpet_Thin",
+			"ExportBundleChunkIds": [
+				"3eb3a517f9a7158d00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/bot_ai/findRandomLocation",
+			"ExportBundleChunkIds": [
+				"c35a1fa429b6d7f000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/enums/tool_modifier_actions",
+			"ExportBundleChunkIds": [
+				"4512dfe36e1270ab00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/enums/target_spawn_mode",
+			"ExportBundleChunkIds": [
+				"dad5bca8f0000c6600000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/enums/settings_actions",
+			"ExportBundleChunkIds": [
+				"7e3838442f669a6300000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Snow",
+			"ExportBundleChunkIds": [
+				"350b7130611708dd00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/enums/ruler_modes",
+			"ExportBundleChunkIds": [
+				"8c15d275309a2bd700000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/bot_ai/bot_bb",
+			"ExportBundleChunkIds": [
+				"5561ef4fa14a653100000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/enums/noclip_mode",
+			"ExportBundleChunkIds": [
+				"0aa137a6f2bb86a600000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/enums/map_loaded_actions",
+			"ExportBundleChunkIds": [
+				"f0895d697c53af9700000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/enums/maps_displayname",
+			"ExportBundleChunkIds": [
+				"d9ca07b49dcff32a00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/enums/maps",
+			"ExportBundleChunkIds": [
+				"f9c97bd592b300cb00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Mud",
+			"ExportBundleChunkIds": [
+				"345bfd250ae6c4cb00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/PM_ForceNone",
+			"ExportBundleChunkIds": [
+				"b2304dd654f2076a00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/enums/LoadableMaps",
+			"ExportBundleChunkIds": [
+				"66ead1e004009aa300000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Wood",
+			"ExportBundleChunkIds": [
+				"907fb6804891c2fa00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Water",
+			"ExportBundleChunkIds": [
+				"5614ca6dacb8e49b00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Metal",
+			"ExportBundleChunkIds": [
+				"49a5809b2995c08000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Glass",
+			"ExportBundleChunkIds": [
+				"6e5974988807a29000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Flesh",
+			"ExportBundleChunkIds": [
+				"69ab01829a8c863700000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Fabric",
+			"ExportBundleChunkIds": [
+				"22313d9e204a2fa800000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Blueprints/E_LootSpawnerItemIDs",
+			"ExportBundleChunkIds": [
+				"bd62fafe44b654bd00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Materials/M_LootSpawner",
+			"ExportBundleChunkIds": [
+				"c471dc1386a0d08900000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/ModExampleMap",
+			"ExportBundleChunkIds": [
+				"f52df9f7719a86b100000001"
+			],
+			"BulkDataChunkIds": [
+				"f52df9f7719a86b100000002"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Dirt",
+			"ExportBundleChunkIds": [
+				"5d671c9c72fc594400000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Concrete",
+			"ExportBundleChunkIds": [
+				"eaf1d6a03168f01d00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/PhysicalMaterials/PM_Default_Carpet",
+			"ExportBundleChunkIds": [
+				"e1cbaf5c8b51a49900000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/Blueprints/Pavlov_GameLogic_Example",
+			"ExportBundleChunkIds": [
+				"b5418c68827e9a4800000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/Blueprints/BP_LootSpawnerProxy",
+			"ExportBundleChunkIds": [
+				"d138bfdeb77a2b1e00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/Blueprints/BP_InstanceTool",
+			"ExportBundleChunkIds": [
+				"4bfa735f7637719d00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/Blueprints/BP_Door",
+			"ExportBundleChunkIds": [
+				"52bf63f7ee5c7ff600000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/Blueprints/BP_Destructible",
+			"ExportBundleChunkIds": [
+				"46164051ae67a90c00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/Blueprints/BP_CTFProxy",
+			"ExportBundleChunkIds": [
+				"58e175e0f68ba70600000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/Meshes/SM_FlagCap",
+			"ExportBundleChunkIds": [
+				"4d306ce26bb1558500000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/Meshes/SM_DoorExample_DM",
+			"ExportBundleChunkIds": [
+				"3a41a16fc5dc007000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/Meshes/SM_DoorExample",
+			"ExportBundleChunkIds": [
+				"2f64b9be9c96fc6700000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/Meshes/SM_Bomb_Plant_01",
+			"ExportBundleChunkIds": [
+				"6eb234ca80e0083000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/Blueprints/BPI_MatchRounds",
+			"ExportBundleChunkIds": [
+				"0c0ab80564913c9100000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/Blueprints/BPFL_PavlovTemplate",
+			"ExportBundleChunkIds": [
+				"464be581ce777d5f00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/randomstuff/ServerPortal",
+			"ExportBundleChunkIds": [
+				"1f3aeaa7a5be5e9000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/grenade_stuff/ball",
+			"ExportBundleChunkIds": [
+				"989ae7dd8386626400000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/FloorTest/Color",
+			"ExportBundleChunkIds": [
+				"f9457f20862f384500000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/solid",
+			"ExportBundleChunkIds": [
+				"714460f3dc3b183300000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/Materials/M_Gray",
+			"ExportBundleChunkIds": [
+				"366955e28281f2ed00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/custom_map/Materials/M_EditorMesh",
+			"ExportBundleChunkIds": [
+				"45dc34d680b58a9300000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/prototype/proto_dark",
+			"ExportBundleChunkIds": [
+				"f3d7b8439274acb500000001"
+			],
+			"BulkDataChunkIds": [
+				"f3d7b8439274acb500000002"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/prototype/proto",
+			"ExportBundleChunkIds": [
+				"f487aa3d59764a9600000001"
+			],
+			"BulkDataChunkIds": [
+				"f487aa3d59764a9600000002"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/canvas/hit_marker",
+			"ExportBundleChunkIds": [
+				"045fa82c9c5091ac00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/canvas/canvas_brush",
+			"ExportBundleChunkIds": [
+				"5d755133bbf4322100000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/box_tex/box",
+			"ExportBundleChunkIds": [
+				"694842054f57fe5e00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/FloorTest/Yellow",
+			"ExportBundleChunkIds": [
+				"70ae1db5ae36027700000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/FloorTest/Teal",
+			"ExportBundleChunkIds": [
+				"f11c07bcf32a95ec00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/FloorTest/Red",
+			"ExportBundleChunkIds": [
+				"0961989dd1fea3f800000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/wireframe",
+			"ExportBundleChunkIds": [
+				"49249e7714829f3000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/transparent",
+			"ExportBundleChunkIds": [
+				"66be4bdce18c03bb00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/FloorTest/CubeMaterial",
+			"ExportBundleChunkIds": [
+				"1c1c7d0e98fe919e00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/meshes/upright_cylinder",
+			"ExportBundleChunkIds": [
+				"f0aff4beec108b9300000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/meshes/cylinder",
+			"ExportBundleChunkIds": [
+				"b6ee5dd2d7a2659000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/ServerVersion",
+			"ExportBundleChunkIds": [
+				"5d81cfaba3589be900000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/Box_Brush3_StaticMesh",
+			"ExportBundleChunkIds": [
+				"e3ad08b7c6a0e02a00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/AssetTester",
+			"ExportBundleChunkIds": [
+				"84bcc67a382ffe7300000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/BP_LootSpawnerProxy",
+			"ExportBundleChunkIds": [
+				"24b0ddbda224e14900000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Materials/MI_Weapons",
+			"ExportBundleChunkIds": [
+				"ac36110d0132699400000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Materials/MI_Items",
+			"ExportBundleChunkIds": [
+				"d197fedc2e76686e00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Materials/MI_Healing",
+			"ExportBundleChunkIds": [
+				"e5e795b26ebcc12800000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Materials/MI_Grenades",
+			"ExportBundleChunkIds": [
+				"1b42f7f0d4711fa700000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Materials/MI_Attachments",
+			"ExportBundleChunkIds": [
+				"64f66bc069a9790400000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Materials/MI_Armor",
+			"ExportBundleChunkIds": [
+				"f9598cbf4a63341300000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/bot_ai/bot_bt",
+			"ExportBundleChunkIds": [
+				"c60ff36c9307a34400000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/enums/MapList",
+			"ExportBundleChunkIds": [
+				"3e2b2bb835ac609800000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/solid_red",
+			"ExportBundleChunkIds": [
+				"9b2bfaeabc347def00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/solid_green",
+			"ExportBundleChunkIds": [
+				"80c9aba88a7dbc0c00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/penetrable_mat",
+			"ExportBundleChunkIds": [
+				"067d399b0a6260cf00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/grenade_stuff/particle_trail",
+			"ExportBundleChunkIds": [
+				"658b79cc15ed649f00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/definition",
+			"ExportBundleChunkIds": [
+				"ab850ae9dd29a13a00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Syringe",
+			"ExportBundleChunkIds": [
+				"815045bf8644efae00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/CombatShotgun",
+			"ExportBundleChunkIds": [
+				"31784534082eb63000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/UMP",
+			"ExportBundleChunkIds": [
+				"cba2046eb2c0051f00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Taser",
+			"ExportBundleChunkIds": [
+				"98ce0e3df80fa3df00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/particle_trail",
+			"ExportBundleChunkIds": [
+				"609ee75a9a15f8a900000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/practice_map_BuiltData",
+			"ExportBundleChunkIds": [
+				"caf97bf8a2a0c0c900000001"
+			],
+			"BulkDataChunkIds": [
+				"caf97bf8a2a0c0c900000002"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/hero_shideout",
+			"ExportBundleChunkIds": [
+				"7b1167d2fc0a025e00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/11pans_dungeon",
+			"ExportBundleChunkIds": [
+				"ec8cfd0c538b7b2000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/prototype/basic",
+			"ExportBundleChunkIds": [
+				"8761254de57783ca00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/canvas/canvas_base",
+			"ExportBundleChunkIds": [
+				"c272fbf74f41a2d500000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/box_tex/box_tex_depth_test",
+			"ExportBundleChunkIds": [
+				"aedfd0065bbf4a0a00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/box_tex/box_tex",
+			"ExportBundleChunkIds": [
+				"5b7c1290e13efa2b00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/FloorTest/1M_Cube",
+			"ExportBundleChunkIds": [
+				"2c07c9fc51a9f2ca00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Vanas",
+			"ExportBundleChunkIds": [
+				"a912f51dccacf6d900000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Uzi",
+			"ExportBundleChunkIds": [
+				"26518501a6e81b2800000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Sock",
+			"ExportBundleChunkIds": [
+				"853a1ae69b3eb1e300000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Sawedoff",
+			"ExportBundleChunkIds": [
+				"a17e21d92d51456200000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Revolver",
+			"ExportBundleChunkIds": [
+				"18d99dfb18b9489000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/PumpShotgun",
+			"ExportBundleChunkIds": [
+				"432bccc0ee0502cc00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Pickaxe",
+			"ExportBundleChunkIds": [
+				"ac9e8496bced67fe00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/P90",
+			"ExportBundleChunkIds": [
+				"9db118725861851300000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/MP5",
+			"ExportBundleChunkIds": [
+				"07efd14fab1f042b00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/M9",
+			"ExportBundleChunkIds": [
+				"eee805b6fe55651e00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/M4",
+			"ExportBundleChunkIds": [
+				"2ea668d34efc71d000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/LMG_A",
+			"ExportBundleChunkIds": [
+				"e01bb7c9f05c30a200000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Knife",
+			"ExportBundleChunkIds": [
+				"5a0ec00544a92bef00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Kar98",
+			"ExportBundleChunkIds": [
+				"f111d6e2c8fcdf6300000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/DrumShotgun",
+			"ExportBundleChunkIds": [
+				"0d0e908b9846428c00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/DE",
+			"ExportBundleChunkIds": [
+				"f925245ed2c0545000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Crowbar",
+			"ExportBundleChunkIds": [
+				"f6421126062597c800000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Cet9",
+			"ExportBundleChunkIds": [
+				"d80184eb550894c600000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/C1911",
+			"ExportBundleChunkIds": [
+				"1bffb9c212e1efb200000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Bizon",
+			"ExportBundleChunkIds": [
+				"7c2ebcfe74f647f600000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/AWP",
+			"ExportBundleChunkIds": [
+				"c2b0e189bd91f5ef00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/AutoSniper",
+			"ExportBundleChunkIds": [
+				"74ad499b6c5af71a00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/AUG",
+			"ExportBundleChunkIds": [
+				"867dcdaf0a1af00100000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/AntiTank",
+			"ExportBundleChunkIds": [
+				"04fbb8341daf3d3900000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/AK47",
+			"ExportBundleChunkIds": [
+				"7627d3e9a291cb1800000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/AK12",
+			"ExportBundleChunkIds": [
+				"26179e54ce58912700000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/57",
+			"ExportBundleChunkIds": [
+				"176cd70a8a69d86e00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Lockpick",
+			"ExportBundleChunkIds": [
+				"6c5cd60e1525424a00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Keycard",
+			"ExportBundleChunkIds": [
+				"262e0b1dbd1efa2600000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Handcuffs",
+			"ExportBundleChunkIds": [
+				"17577808f2e9af3500000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/BoltCutters",
+			"ExportBundleChunkIds": [
+				"10b23342410a666000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/BlowTorch",
+			"ExportBundleChunkIds": [
+				"95e1d8146ffd0cbd00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/PillBottle",
+			"ExportBundleChunkIds": [
+				"2b19992504e3037b00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/NadeSmoke_RU",
+			"ExportBundleChunkIds": [
+				"a00779f1e20e9d7000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/NadeSmoke",
+			"ExportBundleChunkIds": [
+				"f065f11646d5488400000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/NadeFlash_RU",
+			"ExportBundleChunkIds": [
+				"fd2bf5cd1543d22a00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/NadeFlash",
+			"ExportBundleChunkIds": [
+				"d50235690bfbe77d00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/NadeExplosive_RU",
+			"ExportBundleChunkIds": [
+				"ce0b9695ac7c98fe00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/NadeExplosive",
+			"ExportBundleChunkIds": [
+				"b2119949ae99fb1600000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/VerticalGrip",
+			"ExportBundleChunkIds": [
+				"3479070daa97e76600000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/SuppressorRifle",
+			"ExportBundleChunkIds": [
+				"3399ccdaeb645c0700000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/SuppressorPistol",
+			"ExportBundleChunkIds": [
+				"3035fd1454d20c2000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Scope",
+			"ExportBundleChunkIds": [
+				"adbb2f63915e9f3300000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/RedDot",
+			"ExportBundleChunkIds": [
+				"ac7b5dd3b856a85500000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Holo",
+			"ExportBundleChunkIds": [
+				"cd18607f7b1cccad00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/AngledGrip",
+			"ExportBundleChunkIds": [
+				"ccf46da7a4bd66bf00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/ACOG",
+			"ExportBundleChunkIds": [
+				"267f69af74247b8e00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Vest",
+			"ExportBundleChunkIds": [
+				"e438c3c303f3ef5400000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Props/Helmet",
+			"ExportBundleChunkIds": [
+				"7d3d7c128be8050600000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/spawn_modifier",
+			"ExportBundleChunkIds": [
+				"25fc8ffb580f031200000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/prototype/basic_dark",
+			"ExportBundleChunkIds": [
+				"62aa12e7e24dec0500000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/spraystuff/canvas",
+			"ExportBundleChunkIds": [
+				"280af4bdc2a5d15100000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/box_tex/box_tex_depth_test_pink",
+			"ExportBundleChunkIds": [
+				"0cbae34d58714b7b00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/box_tex/box_tex_red",
+			"ExportBundleChunkIds": [
+				"56e4dab88c9e345f00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/mats/box_tex/box_tex_blue",
+			"ExportBundleChunkIds": [
+				"de22664ae3be35b200000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/meshes/collision_point",
+			"ExportBundleChunkIds": [
+				"80d799733a92325a00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/FloorTest/DistanceMarkers",
+			"ExportBundleChunkIds": [
+				"e3e4f85c1278735900000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/penmat_modifier",
+			"ExportBundleChunkIds": [
+				"7d0223c171c9551500000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/grenade_modifier",
+			"ExportBundleChunkIds": [
+				"7c6cf81f12b27ebd00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/bullet_modifier",
+			"ExportBundleChunkIds": [
+				"56abdd19060d1a1300000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/external/weapons_pack/Blueprints/BP_LootSpawnerModels",
+			"ExportBundleChunkIds": [
+				"c7565a4fffe0a47800000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/entity_info",
+			"ExportBundleChunkIds": [
+				"813faffeb526f0fd00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/targets/Target_Enemy_Gun",
+			"ExportBundleChunkIds": [
+				"63b4ce239ff50f8e00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/targets/Target_Transparent_Gun",
+			"ExportBundleChunkIds": [
+				"09d23cffde7f28f500000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/grenade_stuff/ball_launcher",
+			"ExportBundleChunkIds": [
+				"bfd1a1e178a8076d00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/player_modifier",
+			"ExportBundleChunkIds": [
+				"0ee611c38139a3b000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/console_print_delay",
+			"ExportBundleChunkIds": [
+				"618601c99aa8e0af00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/gamelogic",
+			"ExportBundleChunkIds": [
+				"014846ff1f268d4d00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/ActorMacros",
+			"ExportBundleChunkIds": [
+				"207c9903d35278be00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/bot_ai/bot_controller",
+			"ExportBundleChunkIds": [
+				"0f512e54fe0745e900000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/spraystuff/save_button",
+			"ExportBundleChunkIds": [
+				"e392b63a8db1a40600000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/spraystuff/spray_tester",
+			"ExportBundleChunkIds": [
+				"6b36dca98ee8043700000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/spraystuff/bullet_property_tester",
+			"ExportBundleChunkIds": [
+				"e566bfbb8b9b4f9300000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/tool_modifier",
+			"ExportBundleChunkIds": [
+				"ea5e7fad3f89c22f00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/tool_hand_right",
+			"ExportBundleChunkIds": [
+				"a8aacc9e9df2789500000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/tool_hand_left",
+			"ExportBundleChunkIds": [
+				"854ae04fb3e01ce000000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/blueprints/modifiers/modifier_volume",
+			"ExportBundleChunkIds": [
+				"5b76b2f08cef886d00000001"
+			]
+		},
+		{
+			"Name": "/UGC3269689/UGC2655726196/practice_map",
+			"ExportBundleChunkIds": [
+				"0208d4a16f92e58500000001"
+			]
+		}
+	]
+}
